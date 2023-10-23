@@ -1,0 +1,25 @@
+.card {
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 576px;
+	height: 600px;
+	display: flex;
+	align-items: flex-end;
+}
+
+.card-contentt {
+	padding: 0 45px 20px 30px;
+}
+
+.card-title {
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	line-height: 20px;
+	margin-bottom: 10px;
+}
+
+.card-text {
+	color: #c0c0c0;
+	display: block;
+	margin-bottom: 15px;
+}

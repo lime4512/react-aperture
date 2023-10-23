@@ -1,0 +1,10 @@
+.parameters-content {
+	display: flex;
+	padding-bottom: 41px;
+}
+
+.parameters {
+	display: flex;
+	justify-content: right;
+	margin-right: 39px;
+}
